@@ -1,5 +1,6 @@
 body{
     padding:12vh 24vw;
+    overflow-x: hidden;
 }
 h1{
     margin:0;
